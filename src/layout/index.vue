@@ -4,6 +4,7 @@
             <el-aside>
                 <el-menu
                     background-color="#545c64"
+                    router
                     text-color="#fff">
                     <el-menu-item index="/">Hello</el-menu-item>
                     <el-menu-item index="/news">News</el-menu-item>
